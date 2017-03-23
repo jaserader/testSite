@@ -1,6 +1,7 @@
 ---
 title: Gallery
 date: 2017-03-23 23:39:00 Z
+permalink: gallery
 position: 0
 Image:
 - "/uploads/Hang-Camera-Strap-02.psd"

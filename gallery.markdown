@@ -8,6 +8,7 @@ Image:
 - "/uploads/Camera%20and%20Strap%20Logo.psd"
 - "/uploads/Hang-Camera-Strap-02.jpg"
 - "/uploads/Alli%20Logo.png"
+layout: page
 ---
 
 # Travel
